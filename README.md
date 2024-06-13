@@ -1,4 +1,4 @@
 Meu primeiro projeto Git
 ---
 Testando algumas funcionalidades do 
-github
+github. Continuem praticando.
